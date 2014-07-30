@@ -1,0 +1,40 @@
+1|DPEE-RECEIVER|Hoang Xuan Sinh|||3482|Hoang Xuan Sinh|Im D�lskamp |3||44623|HERNE|DE|||+4915214345074|||3482|||||||||||+4915214345074
+
+2|DPEE-RECEIVER|Bruhn Simon|||3494|Bruhn Simon|Z�hringerplatz |7||78467|KONSTANZ|DE|||01636299906|||3494|||||||||||01636299906
+
+3|DPEE-RECEIVER|Hoang Xuan Sinh|||3482|Hoang Xuan Sinh|Im D�lskamp |3||44623|HERNE|DE|||+4915214345074|||3482|||||||||||+4915214345074
+
+4|DPEE-RECEIVER|Dung Nguyen Thi|||3483|Dung Nguyen Thi|Im D�lskamp |3||44623|HERNE|DE|||015211935898|||3483|||||||||||015211935898
+
+5|DPEE-RECEIVER|Korn Burkhard|||3489|Korn Burkhard|Glottertalstr|#||79271|STPETER|DE|||017684882151|||3489|||||||||||017684882151
+
+6|DPEE-RECEIVER|GmbH Ambra|||3488|GmbH Ambra|z.H. Herrn T�nges|#||55232|ALZEY|DE|||0171 2232817|||3488|||||||||||0171 2232817
+
+7|DPEE-RECEIVER|Dung Nguyen Thi|||3483|Dung Nguyen Thi|Im D�lskamp |3||44623|HERNE|DE|||015211935898|||3483|||||||||||015211935898
+
+8|DPEE-RECEIVER|Hoang Xuan Sinh|||3482|Hoang Xuan Sinh|Im D�lskamp |3||44623|HERNE|DE|||+4915214345074|||3482|||||||||||+4915214345074
+
+1|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+1|DPEE-SHIPMENT|EPN|20140718|1||||HAZNBSOPB|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+1|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+2|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+2|DPEE-SHIPMENT|EPN|20140718|1||||WEFBJIRFC|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+2|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+3|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+3|DPEE-SHIPMENT|EPN|20140718|1||||VJEZQSBNW|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+3|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+4|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+4|DPEE-SHIPMENT|EPN|20140718|1||||VPUOLKZON|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+4|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+5|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+5|DPEE-SHIPMENT|EPN|20140718|1||||FIYOZHZPP|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+5|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+6|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+6|DPEE-SHIPMENT|EPN|20140718|1||||LRHNCZSRU|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+6|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+7|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+7|DPEE-SHIPMENT|EPN|20140718|1||||LNQDROYMS|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+7|DPEE-ITEM|1|30|40|50|itemdescription|PK||
+8|DPEE-SENDER|6248141346|Trung Nguyên EU & Asiatasty||Minh Ha Nguyen Thi|Hans-Böckler-Str.|21||44787|Bochum|DE||info@asiatasty.de|0234 9117489||||||||||||||DE815005152|||0176 20421438||||0234 9128243
+8|DPEE-SHIPMENT|EPN|20140718|1||||ORYDJUJTF|||||||||||||||||100|EUR|||||||01||||||||||||||||||||||||0|200000|2000||||||||||||||||||||||||||||||||||||||||||||||
+8|DPEE-ITEM|1|30|40|50|itemdescription|PK||
